@@ -3,7 +3,7 @@
  * run with:
  * gcc -pedantic -Wall -Wextra part-1.c; ./a.out < input 
  * where input is in the same directory;
- * dont @ me for using char arrays i couldn't figure out how to use binary numbers
+ * i used the char arrays because i couldn't figure out how to use binary numbers
  * i didn't want to use any other libraries so i implemented the binary to decimal and power functionality.
  */
 #include <stdio.h>
